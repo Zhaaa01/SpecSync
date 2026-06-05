@@ -19,11 +19,11 @@
 
 | Homepage | Perbandingan |
 |:---:|:---:|
-| ![Homepage](docs/screenshots/homepage.png) | ![Compare](docs/screenshots/compare.png) |
+| ![Homepage](docs/screenshots/Awal.png) | ![Compare](docs/screenshots/3.png) |
 
 | Katalog | AI Import Admin |
 |:---:|:---:|
-| ![Catalog](docs/screenshots/catalog.png) | ![AI Import](docs/screenshots/ai_import.png) |
+| ![Catalog](docs/screenshots/2.png) | ![AI Import](docs/screenshots/5.png) |
 
 ---
 
