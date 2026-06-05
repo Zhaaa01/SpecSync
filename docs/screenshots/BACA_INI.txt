@@ -1,0 +1,8 @@
+Taruh screenshot proyek di folder ini. Format yang disarankan: PNG, 1280x720px atau lebih.
+
+File yang dibutuhkan:
+- homepage.png    (halaman utama)
+- compare.png     (halaman perbandingan)
+- catalog.png     (halaman katalog)
+- ai_import.png   (admin panel AI Import)
+
