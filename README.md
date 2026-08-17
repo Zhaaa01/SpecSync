@@ -202,6 +202,8 @@ Buka: `http://localhost/specsync/admin/setup.php`
 
 ---
 
+demo https://specsync.freedev.app/?i=1
+
 ## 📄 Lisensi
 
 Proyek ini menggunakan lisensi [MIT](LICENSE).
